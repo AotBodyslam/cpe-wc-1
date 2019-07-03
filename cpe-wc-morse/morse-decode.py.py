@@ -37,4 +37,3 @@ if __name__ == "__main__":
         result = decrypt(f.read())
         print ("Message is: "+result)
         f.close() 
-

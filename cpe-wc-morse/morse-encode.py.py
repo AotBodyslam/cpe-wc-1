@@ -30,4 +30,3 @@ if __name__ == "__main__":
         f.write(result1)
         print ("chiper is: "+result1)
         f.close() 
-
